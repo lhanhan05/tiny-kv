@@ -1,0 +1,9 @@
+[package]
+name = "tiny-kv"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+description = "A self-directed Rust storage-engine learning project"
+publish = false
+
+[dependencies]

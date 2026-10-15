@@ -1,0 +1,14 @@
+/target/
+/.venv-docs/
+**/__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+/data/*
+!/data/.gitkeep
+/results/raw/*
+!/results/raw/.gitkeep
+*.profraw
+perf.data*
+*.dSYM/
